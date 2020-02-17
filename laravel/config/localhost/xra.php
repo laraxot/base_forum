@@ -46,6 +46,7 @@ $def = [
         'article',
         //'cuisineCat',
     ],
+    /*
     'migrate_packs' => [
         'xra',
         'blog',
@@ -54,7 +55,9 @@ $def = [
         'food',
         'seo',
         'backend',
+        'theme',
     ],
+    */
     'primary_lang' => 'it',
     'related' => [
        'postCat' => [

@@ -10,6 +10,7 @@
 		"php-cs-fixer.config": "./laravel/.php_cs",
 		"vscode-php-cs-fixer.config": "./laravel/.php_cs",
 		"php-cs-fixer.configFile": "./laravel/.php_cs",
+		"php-cs-fixer.executable": "./laravel/php-cs-fixer",
 		"vscode-php-cs-fixer.allowRisky": true,
 		"phpmd.enabled": false,
 		"phpmd.validate.rulesets": "cleancode,codesize,controversial,design,naming,unusedcode",
