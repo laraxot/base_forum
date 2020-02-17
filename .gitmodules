@@ -29,3 +29,12 @@
 	path = laravel/resources/views/themes/pixelgoose
 	url = https://github.com/laraxot/theme_pixelgoose.git
 	
+[submodule "laravel/resources/views/themes/zero"]
+	path = laravel/resources/views/themes/zero
+	url = https://github.com/laraxot/theme_zero.git
+[submodule "laravel/resources/views/themes/one"]
+	path = laravel/resources/views/themes/one
+	url = https://github.com/laraxot/theme_one.git
+[submodule "laravel/resources/views/themes/two"]
+	path = laravel/resources/views/themes/two
+	url = https://github.com/laraxot/theme_two.git
