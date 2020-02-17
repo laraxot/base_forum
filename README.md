@@ -21,7 +21,7 @@ git remote add origin https://github.com/laraxot/base_forum.git
 git pull origin master
 git submodule update --init --checkout --force
 ```
-In the laravel folder
+In the project [forum] folder
 ```
 cd laravel
 ```
