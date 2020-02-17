@@ -38,10 +38,6 @@ Run
 ```
 composer update
 ```
-...and...
-```
-bower update --save --force
-```
 Create the app_key
 ```
 php artisan key:generate
