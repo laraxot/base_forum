@@ -1,0 +1,31 @@
+[submodule "laravel/Modules/Blog"]
+	path = laravel/Modules/Blog
+	url = https://github.com/laraxot/module_blog.git
+[submodule "laravel/Modules/LU"]
+	path = laravel/Modules/LU
+	url = https://github.com/laraxot/module_lu.git
+[submodule "laravel/Modules/Theme"]
+	path = laravel/Modules/Theme
+	url = https://github.com/laraxot/module_theme.git
+[submodule "laravel/Modules/Xot"]
+	path = laravel/Modules/Xot
+	url = https://github.com/laraxot/module_xot.git
+[submodule "public_html/noconsole"]
+	path = public_html/noconsole
+	url = https://github.com/laraxot/noconsole.git
+[submodule "laravel/Modules/Geo"]
+	path = laravel/Modules/Geo
+	url = https://github.com/laraxot/module_geo.git
+[submodule "laravel/Modules/FormX"]
+	path = laravel/Modules/FormX
+	url = https://github.com/laraxot/module_formx.git
+[submodule "laravel/Modules/Forum"]
+	path = laravel/Modules/Forum
+	url = https://github.com/laraxot/module_forum.git
+[submodule "laravel/resources/views/themes/starter"]
+	path = laravel/resources/views/themes/starter
+	url = https://github.com/laraxot/theme_starter.git
+[submodule "laravel/resources/views/themes/pixelgoose"]
+	path = laravel/resources/views/themes/pixelgoose
+	url = https://github.com/laraxot/theme_pixelgoose.git
+	
