@@ -2,6 +2,7 @@
 *.log
 /cache
 *.lock
+package-lock.json
 /laravel/composer
 *.phar
 /jar.txt
@@ -33,3 +34,6 @@ Homestead.json
 .tmp
 error_log
 .phpintel
+
+
+
